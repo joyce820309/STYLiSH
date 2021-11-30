@@ -1,0 +1,23 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 12
+    },
+    "globals":{
+        "TPDirect":true,
+        "FB":true,
+        "memberLogin": true
+    },
+    "rules": {
+        "no-alert":"off",
+        "no-console":"off",
+        "func-names":"off",
+        "import/extensions": ["error", "always", { "js": "always" }]
+    }
+}
