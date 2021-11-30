@@ -14,22 +14,10 @@ https://joyce820309.github.io/STYLiSH/public/index.html
 - Responsive Web Design(RWD)
 - Flex and Grid Layout
 
-### React Libraries
-
-- React(Context, Hooks)
-- React Router
-- Redux
-- Styled Component
-
 ### Third-Party Libraries
 
 - Facebook SDK
 - Tappay SDK
-
-### Backend Framework and Cloud Service
-
-- Node and Express
-- Firebase
 
 ### Networking
 
@@ -41,21 +29,9 @@ https://joyce820309.github.io/STYLiSH/public/index.html
 ### Persistent Store
 
 - Web Storage
-- Cookie
-
-### Programming Paradigms
-
-- Object-Oriented Programming(OOP)
-- Functional Programming
-
-### Design Patterns
-
-- Module Pattern
-- Model-View-Controller(MVC) Pattern
 
 ### Tools for Development
 
-- Webpack
 - ESLint
 - Prettier
 - Git, GitHub
